@@ -26,7 +26,7 @@ This method is the good ways to prevent any unauthorized access to your system u
 - Vulnerability scan,
 Schedule vulnerability scan at least once every three months to check and detect for vulnerabilty in the server so admin can mitigate the vulnerabily before someone exploit it.
 
-I hope my recommendation can help you to secure your system, im sorry for the program i create if not according to your expectations. One again i'm not experience in programming job but i have experience as network engineer/admin and security analyst as you can see in my CV.
+I hope my recommendation can help you to secure your system, im sorry for the program i create if not according to your expectations. Once again i'm not experience in programming job but i have experience as network engineer/admin and security analyst as you can see in my CV.
 
 
 Thank you for the opportunity that has been given me.
